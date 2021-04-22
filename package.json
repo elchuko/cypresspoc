@@ -1,0 +1,17 @@
+{
+  "name": "cypresspoc",
+  "version": "1.0.0",
+  "description": "poc of cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Antonio Sierra",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.0.1"
+  },
+  "dependencies": {
+    "yarn": "^1.22.10"
+  }
+}
