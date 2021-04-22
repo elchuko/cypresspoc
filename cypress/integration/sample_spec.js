@@ -10,3 +10,4 @@ describe('Configure VA', () => {
         cy.configure_va();
     })
 })
+

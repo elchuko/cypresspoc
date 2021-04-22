@@ -4,7 +4,8 @@
   "description": "poc of cypress",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open"
+    "test": "cypress open",
+    "cy:run": "cypress run -- --record --spec \"cypress/integration/sample_spec.js\""
   },
   "author": "Antonio Sierra",
   "license": "ISC",
